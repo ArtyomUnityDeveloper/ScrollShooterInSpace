@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 66da29f6234224749b5388270c14801e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - attackBoostSound: {fileID: 8300000, guid: c44defd6aec7e094abce1b0bdaa4395e, type: 3}
+  - repairBoostSound: {fileID: 8300000, guid: 9d8eb905ea0cde8408fdae094b4643c0, type: 3}
+  - scoreBoostSound: {fileID: 8300000, guid: b73065f757aad644a8e5126a4098b66a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
